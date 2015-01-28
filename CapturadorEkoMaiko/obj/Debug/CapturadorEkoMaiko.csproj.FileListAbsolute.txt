@@ -1,0 +1,12 @@
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\bin\Debug\CapturadorEkoMaiko.exe.config
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\bin\Debug\CapturadorEkoMaiko.exe
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\bin\Debug\CapturadorEkoMaiko.pdb
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\obj\Debug\CapturadorEkoMaiko.exe
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\obj\Debug\CapturadorEkoMaiko.pdb
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\bin\Debug\CapturadorEkoMaiko.exe.manifest
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\bin\Debug\CapturadorEkoMaiko.application
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\obj\Debug\CapturadorEkoMaiko.exe.manifest
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\obj\Debug\CapturadorEkoMaiko.application
+\\psf\Home\Desktop\CapturadorEkoMaiko\CapturadorEkoMaiko\bin\Debug\CapturadorEkoMaiko.exe.config
+\\psf\Home\Desktop\CapturadorEkoMaiko\CapturadorEkoMaiko\obj\Debug\CapturadorEkoMaiko.exe
+\\psf\Home\Desktop\CapturadorEkoMaiko\CapturadorEkoMaiko\obj\Debug\CapturadorEkoMaiko.pdb

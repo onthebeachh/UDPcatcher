@@ -20,7 +20,7 @@ namespace CapturadorEkoMaiko
         public SqlCommand _Comando { get; set; }
 
         /*actualizar*/
-        public SQL(String cad_con = "Server=192.168.1.3;Database=basegpse;User ID=sa;Password=samtech2008;Trusted_Connection=False;")
+        public SQL(String cad_con = "Server=myremoteserver;Database=mydatabase;User ID=myusername;Password=mypassword;Trusted_Connection=False;")
         {
             _con = new SqlConnection();
             _cad_Conexion = String.Empty;

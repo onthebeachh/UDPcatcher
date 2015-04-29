@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\bin\Debug\CapturadorEkoMaiko.exe.config
 c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\bin\Debug\CapturadorEkoMaiko.exe
 c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\bin\Debug\CapturadorEkoMaiko.pdb
@@ -17,3 +18,17 @@ c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\Captur
 \\psf\Home\Desktop\CapturadorEkoMaiko\CapturadorEkoMaiko\obj\Debug\CapturadorEkoMaiko.application
 \\psf\Home\Desktop\CapturadorEkoMaiko\CapturadorEkoMaiko\obj\Debug\CapturadorEkoMaiko.exe
 \\psf\Home\Desktop\CapturadorEkoMaiko\CapturadorEkoMaiko\obj\Debug\CapturadorEkoMaiko.pdb
+=======
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\bin\Debug\CapturadorEkoMaiko.exe.config
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\bin\Debug\CapturadorEkoMaiko.exe
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\bin\Debug\CapturadorEkoMaiko.pdb
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\obj\Debug\CapturadorEkoMaiko.exe
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\obj\Debug\CapturadorEkoMaiko.pdb
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\bin\Debug\CapturadorEkoMaiko.exe.manifest
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\bin\Debug\CapturadorEkoMaiko.application
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\obj\Debug\CapturadorEkoMaiko.exe.manifest
+c:\users\samtech\documents\visual studio 2013\Projects\CapturadorEkoMaiko\CapturadorEkoMaiko\obj\Debug\CapturadorEkoMaiko.application
+\\psf\Home\Desktop\CapturadorEkoMaiko\CapturadorEkoMaiko\bin\Debug\CapturadorEkoMaiko.exe.config
+\\psf\Home\Desktop\CapturadorEkoMaiko\CapturadorEkoMaiko\obj\Debug\CapturadorEkoMaiko.exe
+\\psf\Home\Desktop\CapturadorEkoMaiko\CapturadorEkoMaiko\obj\Debug\CapturadorEkoMaiko.pdb
+>>>>>>> 438eddf41d5882240bcab8563179d1b85bf2ff0f
